@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html> 
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="generator" content="RocketCake">
+	<title>Benefits</title>
+	<link rel="stylesheet" type="text/css" href="benefits.css?h=8bf5eb23">
+</head>
+<body>
+<div class="textstyle1">
+<div id="container_38b56572"><div class="textstyle1"><div id="container_1c58bb4"><div id="container_1c58bb4_padding" ><div class="textstyle1">  <div id="text_1c84632b">
+    <div class="textstyle2">
+      <span class="textstyle3">Sandhills Landscape Services</span>
+      </div>
+    </div>
+  <span class="textstyle4"><br/></span>
+</div>
+<div style="clear:both"></div></div></div><div id="container_4dd2eac8"><div id="container_4dd2eac8_padding" ><div class="textstyle1">  <div id="menu_5a4d3624">
+    <div  class="menuholder1"><a href="javascript:void(0);" tabindex="-1" aria-label="Menu &#9660;" >
+	<div id="menuentry_396ee45b"  class="menustyle1 menu_5a4d3624_mainMenuEntry mobileEntry">
+		<div class="menuentry_text1">
+      <span class="textstyle5">Menu &#9660;</span>
+		</div>
+	</div>
+</a>
+<a href="home.html" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_4e2dc648"  class="menustyle1 menu_5a4d3624_mainMenuEntry normalEntry">
+		<div class="menuentry_text2">
+      <span class="textstyle6">Home</span>
+		</div>
+	</div>
+</a>
+<a href="about.html" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_50dff902"  class="menustyle2 menu_5a4d3624_mainMenuEntry normalEntry">
+		<div class="menuentry_text2">
+      <span class="textstyle6">About</span>
+		</div>
+	</div>
+</a>
+<a href="contact.html" style="text-decoration:none" tabindex="-1">
+	<div id="menuentry_26f900e2"  class="menustyle3 menu_5a4d3624_mainMenuEntry normalEntry">
+		<div class="menuentry_text2">
+      <span class="textstyle6">Contact</span>
+		</div>
+	</div>
+</a>
+<a href="javascript:void(0);" tabindex="-1" aria-label="Benefits" >
+	<div id="menuentry_16d91276"  class="menustyle4 menu_5a4d3624_mainMenuEntry normalEntry">
+		<div class="menuentry_text2">
+      <span class="textstyle6">Benefits</span>
+		</div>
+	</div>
+</a>
+
+	<script type="text/javascript" src="rc_images/wsp_menu.js"></script>
+	<script type="text/javascript">
+		var js_menu_5a4d3624= new wsp_menu('menu_5a4d3624', 'menu_5a4d3624', 10, null, true, {generateAriaLabels: true, setUsefulTabIndices: true, mobileMenuIsFullscreen: true, mobileMenuCloseButtonColor: '#C8C8C8', menuPaddingUsed: 10, mobileMenuAnimations: ['fadeMenus'], closeWhenMouseOut: false} );
+
+		js_menu_5a4d3624.createMenuForItem('menuentry_396ee45b', ["      <span class=\"textstyle7\">Home</span> ", 'home.html', '',
+		                                   "      <span class=\"textstyle7\">About</span> ", 'about.html', '',
+		                                   "      <span class=\"textstyle7\">Contact</span> ", 'contact.html', '',
+		                                   "      <span class=\"textstyle7\">Benefits</span> ", 'javascript:void(0);', '']
+		                                   , true);
+		js_menu_5a4d3624.createMenuForItem('menuentry_4e2dc648', []);
+		js_menu_5a4d3624.createMenuForItem('menuentry_50dff902', []);
+		js_menu_5a4d3624.createMenuForItem('menuentry_26f900e2', []);
+		js_menu_5a4d3624.createMenuForItem('menuentry_16d91276', []);
+
+	</script>
+      </div>
+    </div>
+</div>
+<div style="clear:both"></div></div></div><div id="container_6e3a76ce"><div id="container_6e3a76ce_padding" ></div></div><span class="textstyle8"><br/></span><div id="container_1e714477"><div id="container_1e714477_padding" ><div class="textstyle1"><span class="textstyle9">The benefits of landscaping:</span><span class="textstyle10"><br/><br/>Landscaping is a way to protect the environment and you. Too much tree debris near your house may cause a pest infestation, as they will try to feed off the wood from the sticks and end up smelling out your pantry. leaves provide a nice place to moisture and mold, which may find its way into your house if you are not careful.<br/><br/>Protect your health and your lawn with Sandhills Landscape Services. We take care ot all the leaves, sticks, branches, and more for less. Contact today to scedule your appointment at 910-544-6611</span></div>
+</div></div><span class="textstyle8"><br/></span></div>
+</div>  </div>
+</body>
+</html>
