@@ -24,7 +24,7 @@
 		</div>
 	</div>
 </a>
-<a href="home.html" style="text-decoration:none" tabindex="-1">
+<a href="index.html" style="text-decoration:none" tabindex="-1">
 	<div id="menuentry_4e2dc648"  class="menustyle1 menu_5a4d3624_mainMenuEntry normalEntry">
 		<div class="menuentry_text2">
       <span class="textstyle6">Home</span>
@@ -57,7 +57,7 @@
 	<script type="text/javascript">
 		var js_menu_5a4d3624= new wsp_menu('menu_5a4d3624', 'menu_5a4d3624', 10, null, true, {generateAriaLabels: true, setUsefulTabIndices: true, mobileMenuIsFullscreen: true, mobileMenuCloseButtonColor: '#C8C8C8', menuPaddingUsed: 10, mobileMenuAnimations: ['fadeMenus'], closeWhenMouseOut: false} );
 
-		js_menu_5a4d3624.createMenuForItem('menuentry_396ee45b', ["      <span class=\"textstyle7\">Home</span> ", 'home.html', '',
+		js_menu_5a4d3624.createMenuForItem('menuentry_396ee45b', ["      <span class=\"textstyle7\">Home</span> ", 'index.html', '',
 		                                   "      <span class=\"textstyle7\">About</span> ", 'about.html', '',
 		                                   "      <span class=\"textstyle7\">Contact</span> ", 'contact.html', '',
 		                                   "      <span class=\"textstyle7\">Benefits</span> ", 'javascript:void(0);', '']
