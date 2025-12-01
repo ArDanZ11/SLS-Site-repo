@@ -1,3 +1,7 @@
+---
+title: false
+---
+
 # Terms of service
 
 
