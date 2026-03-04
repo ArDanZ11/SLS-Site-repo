@@ -1,3 +1,3 @@
-# Readme says you may not touch!
+# Sandhills Landscape Services
 
-Don't touch this page. I will not allow you to. This website is meant to be privately held, but we are trying to make it for free so you may not touch.
+I am helping a small business make a website. we are hosting it here for free, keeping it visible so that we don;t have to pay. Don't mess with anything. I still  think that I can keep commits and pull requests from happening. Is that right?
